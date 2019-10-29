@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tai-common/tai-common.iml" filepath="$PROJECT_DIR$/tai-common/tai-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tai-cs.iml" filepath="$PROJECT_DIR$/.idea/tai-cs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tai-cs/tai-cs (1).iml" filepath="$PROJECT_DIR$/tai-cs/tai-cs (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/tai-framework/tai-framework.iml" filepath="$PROJECT_DIR$/tai-framework/tai-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tai-generator/tai-generator.iml" filepath="$PROJECT_DIR$/tai-generator/tai-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tai-rest/tai-rest.iml" filepath="$PROJECT_DIR$/tai-rest/tai-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tai-system/tai-system.iml" filepath="$PROJECT_DIR$/tai-system/tai-system.iml" />
+    </modules>
+  </component>
+</project>

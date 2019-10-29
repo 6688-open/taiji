@@ -1,0 +1,2275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b66bb5a5-49f1-4418-9151-eb91443e1075" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/tai-rest/target/" />
+    <ignored path="$PROJECT_DIR$/tai-generator/target/" />
+    <ignored path="$PROJECT_DIR$/tai-framework/target/" />
+    <ignored path="$PROJECT_DIR$/tai-system/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/tai-cs/target/" />
+    <ignored path="$PROJECT_DIR$/tai-common/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="132">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tai-common/src/main/java/cn/com/taiji/common/annotation/Excel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1311">
+              <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tai-common/src/main/java/cn/com/taiji/common/annotation/Log.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tai-common/src/main/java/cn/com/taiji/common/base/AjaxResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1178">
+              <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tai-common/src/main/java/cn/com/taiji/common/base/BaseEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="931">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tai-common/src/main/java/cn/com/taiji/common/config/Global.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2033">
+              <caret line="130" column="16" selection-start-line="130" selection-start-column="16" selection-end-line="130" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tai-generator/src/main/resources/mapper/GenMapper-mysql.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tai-generator/src/main/java/cn/com/taiji/generator/mapper/GenMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="27" column="38" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tai-generator/src/main/java/cn/com/taiji/generator/domain/TableInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tai-generator/src/main/java/cn/com/taiji/generator/domain/ColumnInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="12" />
+              <folding>
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#737#738#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tai-generator/src/main/resources/mapper/generator/GenMapper.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>oracle</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="D:/JavaSoftware/maven/apache-maven-3.6.0/conf/settings.xml" />
+        <option value="$PROJECT_DIR$/tai-system/src/main/java/cn/com/taiji/system/domain/BaseEntity.java" />
+        <option value="$PROJECT_DIR$/tai-system/src/main/java/cn/com/taiji/system/domain/Excel.java" />
+        <option value="$PROJECT_DIR$/tai-system/src/main/java/cn/com/taiji/system/domain/PensionOrgInfo.java" />
+        <option value="$PROJECT_DIR$/tai-cs/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/tai-common/src/main/java/cn/com/taiji/common/config/Global.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\mvnRespo" />
+        <option name="mavenHome" value="D:/JavaSoftware/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\JavaSoftware\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="74" />
+    <option name="y" value="58" />
+    <option name="width" value="848" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tai-cs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tai-cs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tai-cs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tai-cs" type="462c0819:PsiDirectoryNode" />
+              <item name="tai-generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tai-cs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tai-cs" type="462c0819:PsiDirectoryNode" />
+              <item name="tai-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tai-cs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tai-cs" type="462c0819:PsiDirectoryNode" />
+              <item name="tai-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tai-cs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tai-cs" type="462c0819:PsiDirectoryNode" />
+              <item name="tai-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tai-cs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tai-cs" type="462c0819:PsiDirectoryNode" />
+              <item name="tai-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tai-cs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tai-cs" type="462c0819:PsiDirectoryNode" />
+              <item name="tai-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tai-cs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tai-cs" type="462c0819:PsiDirectoryNode" />
+              <item name="tai-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tai-cs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tai-cs" type="462c0819:PsiDirectoryNode" />
+              <item name="tai-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../esbms-app" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.com.taiji.system.domain" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TaiCSApplication (1)">
+    <configuration name="TaiCSApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tai-cs (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.com.taiji.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.com.taiji.TaiCSApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaiCSApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tai-cs" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.com.taiji.TaiCSApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TaiCSApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\dj\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b66bb5a5-49f1-4418-9151-eb91443e1075" name="Default Changelist" comment="" />
+      <created>1571627677783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571627677783</updated>
+      <workItem from="1571627682126" duration="7524000" />
+      <workItem from="1571640479801" duration="830000" />
+      <workItem from="1571641369628" duration="6681000" />
+      <workItem from="1571706959869" duration="7375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22410000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21255673" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31751227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32242227" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.09656301" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20953101" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23076923" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32242227" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.09656301" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tai_cs$TaiCSApplication.ic" NAME="TaiCSApplication Coverage Results" MODIFIED="1571641545081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tai-common/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/tai-rest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-564" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-cs/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/tai-cs/src/main/resources/application-oracle.yml" />
+    <entry file="uml://MAVEN/cn.com.taiji:tai-cs:1.0">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>cn.com.taiji:tai-cs:1.0</OriginalElement>
+          <nodes>
+            <node x="0.0" y="975.6955604992938">cn.com.taiji:tai-cs:1.0</node>
+            <node x="154.0" y="2185.9705604992937">org.springframework.boot:spring-boot-devtools:jar:2.1.4.RELEASE</node>
+            <node x="870.0" y="1878.6901692708334">org.springframework.boot:spring-boot-devtools:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot:jar:2.1.4.RELEASE</node>
+            <node x="827.0" y="1686.1005859375">org.springframework.boot:spring-boot-devtools:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.1.4.RELEASE</node>
+            <node x="175.5" y="978.3205604992938">cn.com.taiji:tai-framework:jar:1.0</node>
+            <node x="834.0" y="1408.9080604992937">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE</node>
+            <node x="1145.0" y="1512.2830604992937">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE</node>
+            <node x="1165.5" y="1984.236243060199">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8</node>
+            <node x="1457.5" y="1984.9705604992937">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8/com.fasterxml.jackson.core:jackson-core:jar:2.9.8</node>
+            <node x="1430.0" y="1517.5330604992937">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.8</node>
+            <node x="1425.0" y="2677.4862430601993">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.8</node>
+            <node x="1394.0" y="1447.7255859375">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.8</node>
+            <node x="1137.0" y="772.1580604992937">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.4.RELEASE</node>
+            <node x="1436.5" y="711.1580604992937">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.4.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.17</node>
+            <node x="1444.5" y="813.1580604992937">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.4.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:9.0.17</node>
+            <node x="1418.5" y="772.1580604992937">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.4.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.17</node>
+            <node x="1160.5" y="964.0330604992937">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.16.Final</node>
+            <node x="1455.5" y="984.5330604992937">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.16.Final/javax.validation:validation-api:jar:2.0.1.Final</node>
+            <node x="1454.5" y="943.5330604992937">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.16.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
+            <node x="1183.0" y="1716.361243060199">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework:spring-web:jar:5.1.6.RELEASE</node>
+            <node x="1171.5" y="1820.236243060199">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework:spring-webmvc:jar:5.1.6.RELEASE</node>
+            <node x="834.5" y="1529.6580604992937">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-aop:jar:2.1.4.RELEASE</node>
+            <node x="1183.5" y="1902.236243060199">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-aop:jar:2.1.4.RELEASE/org.springframework:spring-aop:jar:5.1.6.RELEASE</node>
+            <node x="1175.0" y="1368.7830604992937">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-aop:jar:2.1.4.RELEASE/org.aspectj:aspectjweaver:jar:1.9.2</node>
+            <node x="818.0" y="1837.6901692708334">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE</node>
+            <node x="852.5" y="2078.580851831739">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE</node>
+            <node x="877.0" y="2139.580851831739">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE/org.thymeleaf:thymeleaf:jar:3.0.11.RELEASE</node>
+            <node x="1185.5" y="2172.268351831739">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE/org.thymeleaf:thymeleaf:jar:3.0.11.RELEASE/org.attoparser:attoparser:jar:2.0.5.RELEASE</node>
+            <node x="1184.5" y="2213.268351831739">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE/org.thymeleaf:thymeleaf:jar:3.0.11.RELEASE/org.unbescape:unbescape:jar:1.1.6.RELEASE</node>
+            <node x="827.0" y="1919.6901692708334">cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf.extras:thymeleaf-extras-java8time:jar:3.0.4.RELEASE</node>
+            <node x="880.5" y="1796.6901692708334">cn.com.taiji:tai-framework:jar:1.0/com.zaxxer:HikariCP:jar:3.2.0</node>
+            <node x="812.5" y="1312.5330604992937">cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10</node>
+            <node x="823.5" y="701.1112430601991">cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2</node>
+            <node x="1102.0" y="1430.2830604992937">cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10/com.github.pagehelper:pagehelper-spring-boot-autoconfigure:jar:1.2.10</node>
+            <node x="1182.5" y="1307.2830604992937">cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10/com.github.pagehelper:pagehelper:jar:5.1.8</node>
+            <node x="1466.0" y="1307.2830604992937">cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10/com.github.pagehelper:pagehelper:jar:5.1.8/com.github.jsqlparser:jsqlparser:jar:1.2</node>
+            <node x="840.0" y="783.1112430601991">cn.com.taiji:tai-framework:jar:1.0/com.github.theborakompanioni:thymeleaf-extras-shiro:jar:2.0.0</node>
+            <node x="875.5" y="1042.0955604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0</node>
+            <node x="870.0" y="1204.7830604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0</node>
+            <node x="1169.0" y="1247.0955604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.commons:commons-lang3:jar:3.8.1</node>
+            <node x="1179.5" y="1020.2830604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/commons-io:commons-io:jar:2.6</node>
+            <node x="1156.0" y="1102.2830604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/commons-fileupload:commons-fileupload:jar:1.4</node>
+            <node x="1458.5" y="1061.2830604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/commons-fileupload:commons-fileupload:jar:1.4/commons-io:commons-io:jar:2.2</node>
+            <node x="1200.0" y="1061.2830604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.jsoup:jsoup:jar:1.11.3</node>
+            <node x="1186.0" y="1204.7830604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1</node>
+            <node x="1485.5" y="1102.2830604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.poi:poi:jar:4.0.1</node>
+            <node x="1656.5" y="1143.2830604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.poi:poi:jar:4.0.1/commons-codec:commons-codec:jar:1.11</node>
+            <node x="1640.0" y="1061.2830604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.poi:poi:jar:4.0.1/org.apache.commons:commons-collections4:jar:4.2</node>
+            <node x="1656.0" y="1102.2830604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.poi:poi:jar:4.0.1/org.apache.commons:commons-math3:jar:3.6.1</node>
+            <node x="1437.5" y="1184.2830604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.poi:poi-ooxml-schemas:jar:4.0.1</node>
+            <node x="1677.5" y="1184.2830604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.poi:poi-ooxml-schemas:jar:4.0.1/org.apache.xmlbeans:xmlbeans:jar:3.0.2</node>
+            <node x="1435.5" y="1225.2830604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.commons:commons-compress:jar:1.18</node>
+            <node x="1467.5" y="1266.2830604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/com.github.virtuald:curvesapi:jar:1.05</node>
+            <node x="842.5" y="742.1112430601991">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/mysql:mysql-connector-java:jar:8.0.15</node>
+            <node x="885.0" y="312.0871900298948">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4.0-atlassian-hosted</node>
+            <node x="842.5" y="435.0871900298948">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/mysql:mysql-connector-java:jar:8.0.13</node>
+            <node x="885.0" y="251.08719002989483">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4</node>
+            <node x="866.5" y="824.1112430601991">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0</node>
+            <node x="1194.5" y="882.0330604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/org.apache.velocity:velocity:jar:1.7</node>
+            <node x="1433.5" y="902.5330604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/org.apache.velocity:velocity:jar:1.7/commons-collections:commons-collections:jar:3.2.1</node>
+            <node x="1451.5" y="861.5330604992937">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/org.apache.velocity:velocity:jar:1.7/commons-lang:commons-lang:jar:2.4</node>
+            <node x="842.5" y="577.0871900298948">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/mysql:mysql-connector-java:jar:8.0.13</node>
+            <node x="885.0" y="7.8505859375">cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4</node>
+            <node x="842.5" y="506.0871900298948">cn.com.taiji:tai-framework:jar:1.0/mysql:mysql-connector-java:jar:8.0.13</node>
+            <node x="885.0" y="109.08719002989483">cn.com.taiji:tai-framework:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4</node>
+            <node x="196.0" y="1653.8455604992937">cn.com.taiji:tai-rest:jar:1.0</node>
+            <node x="846.5" y="2810.8455604992937">cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2</node>
+            <node x="1154.5" y="2961.370560499294">cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-annotations:jar:1.5.20</node>
+            <node x="856.0" y="2987.995560499294">cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-models:jar:1.5.20</node>
+            <node x="1157.5" y="3002.370560499294">cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-models:jar:1.5.20/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="1177.5" y="2838.370560499294">cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2</node>
+            <node x="862.0" y="2647.8455604992937">cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2/io.springfox:springfox-core:jar:2.9.2</node>
+            <node x="1182.5" y="2621.2830604992937">cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2/io.springfox:springfox-core:jar:2.9.2/net.bytebuddy:byte-buddy:jar:1.9.12</node>
+            <node x="1164.0" y="2920.370560499294">cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-schema:jar:2.9.2</node>
+            <node x="822.0" y="2871.8455604992937">cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-swagger-common:jar:2.9.2</node>
+            <node x="842.0" y="2688.8455604992937">cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spring-web:jar:2.9.2</node>
+            <node x="1198.5" y="2673.5955604992937">cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/com.google.guava:guava:jar:20.0</node>
+            <node x="1187.5" y="2580.2830604992937">cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/com.fasterxml:classmate:jar:1.4.0</node>
+            <node x="850.5" y="2544.701722301138">cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE</node>
+            <node x="836.0" y="2749.8455604992937">cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-metadata:jar:1.2.0.RELEASE</node>
+            <node x="1187.0" y="2879.370560499294">cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.mapstruct:mapstruct:jar:1.2.0.Final</node>
+            <node x="842.5" y="2503.7017223011376">cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger-ui:jar:2.9.2</node>
+            <node x="842.5" y="660.1112430601991">cn.com.taiji:tai-rest:jar:1.0/mysql:mysql-connector-java:jar:8.0.13</node>
+            <node x="885.0" y="180.08719002989483">cn.com.taiji:tai-rest:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4</node>
+            <node x="149.0" y="1946.4705604992937">org.springframework:spring-context-support:jar:5.1.6.RELEASE</node>
+            <node x="866.5" y="2462.7017223011376">org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-beans:jar:5.1.6.RELEASE</node>
+            <node x="863.0" y="2180.580851831739">org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-context:jar:5.1.6.RELEASE</node>
+            <node x="1163.5" y="1943.236243060199">org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-context:jar:5.1.6.RELEASE/org.springframework:spring-expression:jar:5.1.6.RELEASE</node>
+            <node x="871.0" y="2037.5808518317388">org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-core:jar:5.1.6.RELEASE</node>
+            <node x="1189.0" y="1861.236243060199">org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-core:jar:5.1.6.RELEASE/org.springframework:spring-jcl:jar:5.1.6.RELEASE</node>
+            <node x="135.0" y="751.8455604992937">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0</node>
+            <node x="848.5" y="1753.6630859375">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE</node>
+            <node x="1134.5" y="2131.268351831739">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE</node>
+            <node x="860.5" y="2378.776722301138">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="1177.0" y="2254.268351831739">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="868.0" y="2419.776722301138">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.2</node>
+            <node x="1190.0" y="2494.923743060199">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.2/org.apache.logging.log4j:log4j-api:jar:2.11.2</node>
+            <node x="876.0" y="2299.643351831739">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.26</node>
+            <node x="1157.5" y="841.0330604992937">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="1185.5" y="1471.2830604992937">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.yaml:snakeyaml:jar:1.23</node>
+            <node x="833.5" y="1645.1005859375">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.4.RELEASE</node>
+            <node x="1182.5" y="2295.268351831739">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.4.RELEASE/org.springframework:spring-jdbc:jar:5.1.6.RELEASE</node>
+            <node x="1190.0" y="2535.923743060199">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.4.RELEASE/org.springframework:spring-jdbc:jar:5.1.6.RELEASE/org.springframework:spring-tx:jar:5.1.6.RELEASE</node>
+            <node x="802.0" y="1083.0955604992937">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:2.0.0</node>
+            <node x="882.5" y="394.0871900298948">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.mybatis:mybatis:jar:3.5.0</node>
+            <node x="861.5" y="353.0871900298948">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.mybatis:mybatis-spring:jar:2.0.0</node>
+            <node x="154.0" y="593.9705604992937">mysql:mysql-connector-java:jar:8.0.13</node>
+            <node x="196.5" y="198.7205604992937">com.oracle:ojdbc6:jar:11.2.0.4</node>
+            <node x="141.0" y="792.8455604992937">org.jboss.spec.javax.servlet:jboss-servlet-api_3.1_spec:jar:1.0.2.Final</node>
+            <node x="193.5" y="2362.5955604992937">org.slf4j:slf4j-api:jar:1.7.26</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE">
+              <point x="-99.0" y="2.625" />
+              <point x="482.0" y="1850.8151692708334" />
+              <point x="482.0" y="2083.830851831739" />
+              <point x="-64.5" y="-5.25" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-devtools:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot:jar:2.1.4.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-core:jar:5.1.6.RELEASE">
+              <point x="-47.0" y="8.400000000000091" />
+              <point x="502.0" y="1897.5901692708335" />
+              <point x="502.0" y="2039.6808518317387" />
+              <point x="-46.0" y="-8.400000000000091" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-models:jar:1.5.20" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-models:jar:1.5.20/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
+              <point x="61.0" y="5.25" />
+              <point x="1032.0" y="3003.745560499294" />
+              <point x="1052.0" y="3018.120560499294" />
+              <point x="-70.5" y="5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-cs:1.0" target="org.springframework.boot:spring-boot-devtools:jar:2.1.4.RELEASE">
+              <point x="27.5" y="7.0" />
+              <point x="75.0" y="2196.4705604992937" />
+              <point x="-74.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-41.5" y="-6.0" />
+              <point x="652.0" y="1046.5955604992937" />
+              <point x="652.0" y="270.3371900298948" />
+              <point x="-32.0" y="8.75" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spring-web:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/com.fasterxml:classmate:jar:1.4.0">
+              <point x="75.0" y="-7.0" />
+              <point x="1032.0" y="2692.3455604992937" />
+              <point x="1052.0" y="2590.7830604992937" />
+              <point x="-40.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.16.Final" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.16.Final/javax.validation:validation-api:jar:2.0.1.Final">
+              <point x="67.5" y="5.25" />
+              <point x="1354.0" y="979.7830604992937" />
+              <point x="1374.0" y="995.0330604992937" />
+              <point x="-51.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-context:jar:5.1.6.RELEASE/org.springframework:spring-expression:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-core:jar:5.1.6.RELEASE">
+              <point x="-64.5" y="-0.0" />
+              <point x="1052.0" y="1953.736243060199" />
+              <point x="1032.0" y="2051.080851831739" />
+              <point x="46.0" y="3.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-74.5" y="3.0" />
+              <point x="342.0" y="673.6112430601991" />
+              <point x="322.0" y="608.6705604992937" />
+              <point x="74.5" y="4.2000000000000455" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.commons:commons-lang3:jar:3.8.1">
+              <point x="47.0" y="3.0" />
+              <point x="1032.0" y="1218.2830604992937" />
+              <point x="1052.0" y="1257.5955604992937" />
+              <point x="-59.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="53.0" y="-9.450000000000045" />
+              <point x="322.0" y="979.3705604992938" />
+              <point x="342.0" y="115.38719002989478" />
+              <point x="-32.0" y="-4.200000000000003" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2/io.springfox:springfox-core:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/com.fasterxml:classmate:jar:1.4.0">
+              <point x="55.0" y="-8.400000000000091" />
+              <point x="1032.0" y="2649.9455604992936" />
+              <point x="1052.0" y="2586.583060499294" />
+              <point x="-40.5" y="-4.199999999999818" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-32.0" y="8.400000000000006" />
+              <point x="742.0" y="127.98719002989492" />
+              <point x="742.0" y="252.83719002989483" />
+              <point x="-32.0" y="-8.75" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0">
+              <point x="-41.5" y="-3.0" />
+              <point x="342.0" y="1049.5955604992937" />
+              <point x="93.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-16.0" y="10.5" />
+              <point x="-16.0" y="-10.5" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE">
+              <point x="68.5" y="7.875" />
+              <point x="1032.0" y="1772.0380859375" />
+              <point x="1052.0" y="2133.893351831739" />
+              <point x="-93.5" y="-7.875" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.1.4.RELEASE">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-74.5" y="9.0" />
+              <point x="782.0" y="454.5871900298948" />
+              <point x="782.0" y="578.8371900298948" />
+              <point x="-74.5" y="-8.75" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4.0-atlassian-hosted" target="cn.com.taiji:tai-framework:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-32.0" y="-4.199999999999989" />
+              <point x="692.0" y="318.3871900298948" />
+              <point x="692.0" y="119.58719002989483" />
+              <point x="-32.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/org.apache.velocity:velocity:jar:1.7">
+              <point x="50.5" y="-0.0" />
+              <point x="1032.0" y="834.6112430601991" />
+              <point x="1052.0" y="892.5330604992937" />
+              <point x="-33.5" y="-0.0" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.2" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-49.0" y="-0.0" />
+              <point x="342.0" y="2430.276722301138" />
+              <point x="322.0" y="2374.3308546169405" />
+              <point x="35.0" y="1.2352941176468448" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE">
+              <point x="83.0" y="-0.0" />
+              <point x="1032.0" y="1419.4080604992937" />
+              <point x="1052.0" y="1515.7830604992937" />
+              <point x="-83.0" y="-7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-50.5" y="-6.0" />
+              <point x="672.0" y="828.6112430601991" />
+              <point x="672.0" y="12.3505859375" />
+              <point x="-32.0" y="-6.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-cs:1.0" target="cn.com.taiji:tai-framework:jar:1.0">
+              <point x="27.5" y="-0.0" />
+              <point x="-53.0" y="-2.625" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework:spring-webmvc:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-context:jar:5.1.6.RELEASE/org.springframework:spring-expression:jar:5.1.6.RELEASE">
+              <point x="-56.5" y="5.25" />
+              <point x="1082.0" y="1835.986243060199" />
+              <point x="1082.0" y="1946.736243060199" />
+              <point x="-64.5" y="-7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/commons-fileupload:commons-fileupload:jar:1.4" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/commons-fileupload:commons-fileupload:jar:1.4/commons-io:commons-io:jar:2.2">
+              <point x="72.0" y="-0.0" />
+              <point x="1354.0" y="1112.7830604992937" />
+              <point x="1374.0" y="1077.0330604992937" />
+              <point x="-48.5" y="5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.yaml:snakeyaml:jar:1.23">
+              <point x="47.0" y="6.0" />
+              <point x="1032.0" y="1221.2830604992937" />
+              <point x="1052.0" y="1476.5330604992937" />
+              <point x="-42.5" y="-5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-context:jar:5.1.6.RELEASE">
+              <point x="-66.5" y="-6.0" />
+              <point x="432.0" y="2549.201722301138" />
+              <point x="432.0" y="2195.280851831739" />
+              <point x="-54.0" y="4.199999999999818" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0">
+              <point x="53.0" y="-3.1499999999999773" />
+              <point x="322.0" y="985.6705604992939" />
+              <point x="342.0" y="834.6112430601991" />
+              <point x="-50.5" y="-0.0" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.mybatis:mybatis:jar:3.5.0">
+              <point x="93.5" y="-7.0" />
+              <point x="342.0" y="404.5871900298948" />
+              <point x="-34.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE/org.thymeleaf:thymeleaf:jar:3.0.11.RELEASE">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2/io.springfox:springfox-core:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE/org.thymeleaf:thymeleaf:jar:3.0.11.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE/org.thymeleaf:thymeleaf:jar:3.0.11.RELEASE/org.attoparser:attoparser:jar:2.0.5.RELEASE">
+              <point x="40.0" y="-5.25" />
+              <point x="1032.0" y="2144.830851831739" />
+              <point x="1052.0" y="2182.768351831739" />
+              <point x="-42.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-annotations:jar:1.5.20">
+              <point x="70.5" y="8.75" />
+              <point x="1032.0" y="2830.0955604992937" />
+              <point x="1052.0" y="2964.870560499294" />
+              <point x="-73.5" y="-7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.4.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.17" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.4.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.17">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="org.springframework:spring-context-support:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-context:jar:5.1.6.RELEASE">
+              <point x="79.5" y="5.25" />
+              <point x="322.0" y="1962.2205604992937" />
+              <point x="342.0" y="2191.080851831739" />
+              <point x="-54.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework:spring-webmvc:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-context:jar:5.1.6.RELEASE">
+              <point x="-56.5" y="-1.75" />
+              <point x="1052.0" y="1828.986243060199" />
+              <point x="1032.0" y="2184.080851831739" />
+              <point x="54.0" y="-7.0" />
+            </edge>
+            <edge source="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-core:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-core:jar:5.1.6.RELEASE/org.springframework:spring-jcl:jar:5.1.6.RELEASE">
+              <point x="46.0" y="-3.0" />
+              <point x="1032.0" y="2045.0808518317388" />
+              <point x="1052.0" y="1871.736243060199" />
+              <point x="-39.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-swagger-common:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-schema:jar:2.9.2">
+              <point x="95.0" y="4.199999999999818" />
+              <point x="1032.0" y="2886.5455604992935" />
+              <point x="1052.0" y="2938.745560499294" />
+              <point x="-64.0" y="7.875" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spring-web:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE">
+              <point x="-75.0" y="-8.400000000000091" />
+              <point x="432.0" y="2690.9455604992936" />
+              <point x="432.0" y="2564.201722301138" />
+              <point x="-66.5" y="9.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4" target="cn.com.taiji:tai-framework:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-32.0" y="-5.25" />
+              <point x="732.0" y="256.3371900298948" />
+              <point x="732.0" y="123.78719002989487" />
+              <point x="-32.0" y="4.200000000000003" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2">
+              <point x="68.5" y="-7.875" />
+              <point x="1032.0" y="1756.2880859375" />
+              <point x="1052.0" y="851.5330604992937" />
+              <point x="-70.5" y="-0.0" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-56.5" y="-0.0" />
+              <point x="342.0" y="2389.276722301138" />
+              <point x="322.0" y="2373.0955604992937" />
+              <point x="35.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-models:jar:1.5.20" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-annotations:jar:1.5.20">
+              <point x="61.0" y="-5.25" />
+              <point x="1032.0" y="2993.245560499294" />
+              <point x="1052.0" y="2978.870560499294" />
+              <point x="-73.5" y="7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/com.google.guava:guava:jar:20.0">
+              <point x="70.5" y="-5.25" />
+              <point x="1032.0" y="2816.0955604992937" />
+              <point x="1052.0" y="2686.7205604992937" />
+              <point x="-29.5" y="2.625" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="cn.com.taiji:tai-framework:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-37.25" y="10.5" />
+              <point x="-37.25" y="-10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-aop:jar:2.1.4.RELEASE/org.springframework:spring-aop:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-beans:jar:5.1.6.RELEASE">
+              <point x="-44.5" y="5.25" />
+              <point x="1052.0" y="1917.986243060199" />
+              <point x="1032.0" y="2473.2017223011376" />
+              <point x="50.5" y="-0.0" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.4.RELEASE">
+              <point x="93.5" y="7.0" />
+              <point x="342.0" y="1648.6005859375" />
+              <point x="-83.5" y="-7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE">
+              <point x="53.0" y="3.1499999999999773" />
+              <point x="322.0" y="991.9705604992938" />
+              <point x="342.0" y="1414.1580604992937" />
+              <point x="-83.0" y="-5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-swagger-common:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spring-web:jar:2.9.2">
+              <point x="-95.0" y="-2.625" />
+              <point x="362.0" y="2879.7205604992937" />
+              <point x="362.0" y="2703.5455604992935" />
+              <point x="-75.0" y="4.199999999999818" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8/com.fasterxml.jackson.core:jackson-core:jar:2.9.8">
+              <point x="62.5" y="2.625" />
+              <point x="1354.0" y="1997.361243060199" />
+              <point x="1374.0" y="2000.7205604992937" />
+              <point x="-49.5" y="5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE">
+              <point x="-53.0" y="7.875" />
+              <point x="95.0" y="996.6955604992938" />
+              <point x="95.0" y="1951.7205604992937" />
+              <point x="-79.5" y="-5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.8" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8/com.fasterxml.jackson.core:jackson-core:jar:2.9.8">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.4.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.4.RELEASE">
+              <point x="83.0" y="-8.400000000000091" />
+              <point x="1032.0" y="1411.0080604992936" />
+              <point x="1052.0" y="782.6580604992937" />
+              <point x="-91.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4.0-atlassian-hosted" target="com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-32.0" y="4.2000000000000455" />
+              <point x="342.0" y="326.7871900298949" />
+              <point x="322.0" y="217.6205604992938" />
+              <point x="32.0" y="8.400000000000091" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework:spring-web:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-beans:jar:5.1.6.RELEASE">
+              <point x="-45.0" y="7.0" />
+              <point x="1052.0" y="1733.861243060199" />
+              <point x="1032.0" y="2464.8017223011375" />
+              <point x="50.5" y="-8.400000000000091" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework:spring-webmvc:jar:5.1.6.RELEASE">
+              <point x="83.0" y="8.400000000000091" />
+              <point x="1032.0" y="1427.8080604992938" />
+              <point x="1052.0" y="1821.986243060199" />
+              <point x="-56.5" y="-8.75" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spring-web:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-metadata:jar:1.2.0.RELEASE">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="16.0" y="-10.5" />
+              <point x="16.0" y="10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-74.5" y="-1.75" />
+              <point x="342.0" y="585.8371900298948" />
+              <point x="322.0" y="604.4705604992937" />
+              <point x="74.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.poi:poi:jar:4.0.1" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.poi:poi:jar:4.0.1/org.apache.commons:commons-collections4:jar:4.2">
+              <point x="21.5" y="-7.0" />
+              <point x="1620.0" y="1105.7830604992937" />
+              <point x="-77.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-aop:jar:2.1.4.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE">
+              <point x="-82.5" y="5.25" />
+              <point x="582.0" y="1545.4080604992937" />
+              <point x="582.0" y="1757.6005859375" />
+              <point x="-68.5" y="-6.5625" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spring-web:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2">
+              <point x="75.0" y="7.0" />
+              <point x="1032.0" y="2706.3455604992937" />
+              <point x="1052.0" y="2844.670560499294" />
+              <point x="-50.5" y="-4.199999999999818" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4.0-atlassian-hosted" target="cn.com.taiji:tai-rest:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-32.0" y="-8.399999999999977" />
+              <point x="702.0" y="314.18719002989474" />
+              <point x="702.0" y="198.98719002989492" />
+              <point x="-32.0" y="8.400000000000006" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.yaml:snakeyaml:jar:1.23">
+              <point x="68.5" y="-2.625" />
+              <point x="1032.0" y="1761.5380859375" />
+              <point x="1052.0" y="1487.0330604992937" />
+              <point x="-42.5" y="5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0">
+              <point x="-93.5" y="-5.25" />
+              <point x="342.0" y="706.3612430601991" />
+              <point x="93.5" y="-4.666666666666629" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-37.25" y="10.5" />
+              <point x="-37.25" y="-10.5" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.2">
+              <point x="-93.5" y="7.875" />
+              <point x="1052.0" y="2149.643351831739" />
+              <point x="1032.0" y="2425.026722301138" />
+              <point x="49.0" y="-5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spring-web:jar:2.9.2" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-75.0" y="-0.0" />
+              <point x="342.0" y="2699.3455604992937" />
+              <point x="322.0" y="2378.036736969882" />
+              <point x="35.0" y="4.941176470588289" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-aop:jar:2.1.4.RELEASE">
+              <point x="53.0" y="5.25" />
+              <point x="322.0" y="994.0705604992938" />
+              <point x="342.0" y="1534.9080604992937" />
+              <point x="-82.5" y="-5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4" target="cn.com.taiji:tai-rest:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="16.0" y="10.5" />
+              <point x="16.0" y="-10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4" target="cn.com.taiji:tai-framework:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-16.0" y="-10.5" />
+              <point x="-16.0" y="10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0">
+              <point x="-41.5" y="9.0" />
+              <point x="652.0" y="1061.5955604992937" />
+              <point x="652.0" y="1206.2830604992937" />
+              <point x="-47.0" y="-9.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-74.5" y="-8.400000000000091" />
+              <point x="342.0" y="508.18719002989474" />
+              <point x="322.0" y="600.2705604992937" />
+              <point x="74.5" y="-4.2000000000000455" />
+            </edge>
+            <edge source="cn.com.taiji:tai-cs:1.0" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE">
+              <point x="27.5" y="4.666666666666629" />
+              <point x="75.0" y="1962.2205604992937" />
+              <point x="-79.5" y="5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-cs:1.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0">
+              <point x="27.5" y="-4.666666666666629" />
+              <point x="75.0" y="755.3455604992937" />
+              <point x="-93.5" y="-7.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-devtools:jar:2.1.4.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot:jar:2.1.4.RELEASE">
+              <point x="74.5" y="5.25" />
+              <point x="322.0" y="2201.7205604992937" />
+              <point x="342.0" y="1889.1901692708334" />
+              <point x="-47.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.poi:poi:jar:4.0.1">
+              <point x="42.0" y="-7.875" />
+              <point x="1354.0" y="1207.4080604992937" />
+              <point x="1374.0" y="1112.7830604992937" />
+              <point x="-21.5" y="-0.0" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot:jar:2.1.4.RELEASE">
+              <point x="-68.5" y="6.5625" />
+              <point x="532.0" y="1770.7255859375" />
+              <point x="532.0" y="1880.7901692708333" />
+              <point x="-47.0" y="-8.400000000000091" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.4.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.4.RELEASE/org.springframework:spring-jdbc:jar:5.1.6.RELEASE">
+              <point x="83.5" y="-0.0" />
+              <point x="1032.0" y="1655.6005859375" />
+              <point x="1052.0" y="2297.893351831739" />
+              <point x="-45.5" y="-7.875" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.26">
+              <point x="-93.5" y="-2.625" />
+              <point x="1052.0" y="2139.143351831739" />
+              <point x="1032.0" y="2310.143351831739" />
+              <point x="41.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-cs:1.0" target="org.jboss.spec.javax.servlet:jboss-servlet-api_3.1_spec:jar:1.0.2.Final">
+              <point x="27.5" y="-2.3333333333333712" />
+              <point x="75.0" y="803.3455604992937" />
+              <point x="-87.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf.extras:thymeleaf-extras-java8time:jar:3.0.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE/org.thymeleaf:thymeleaf:jar:3.0.11.RELEASE">
+              <point x="-90.0" y="7.0" />
+              <point x="472.0" y="1937.1901692708334" />
+              <point x="472.0" y="2144.830851831739" />
+              <point x="-40.0" y="-5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="53.0" y="-7.350000000000023" />
+              <point x="322.0" y="981.4705604992938" />
+              <point x="342.0" y="512.3871900298948" />
+              <point x="-74.5" y="-4.2000000000000455" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2/io.springfox:springfox-core:jar:2.9.2" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-55.0" y="-5.25" />
+              <point x="342.0" y="2653.0955604992937" />
+              <point x="322.0" y="2376.8014428522347" />
+              <point x="35.0" y="3.705882352940989" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0">
+              <point x="-50.5" y="-3.0" />
+              <point x="342.0" y="831.6112430601991" />
+              <point x="93.5" y="-2.3333333333333712" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-models:jar:1.5.20/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
+              <point x="-62.5" y="7.0" />
+              <point x="1052.0" y="2001.736243060199" />
+              <point x="1052.0" y="3007.620560499294" />
+              <point x="-70.5" y="-5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE">
+              <point x="-47.0" y="6.0" />
+              <point x="342.0" y="1221.2830604992937" />
+              <point x="322.0" y="1955.2205604992937" />
+              <point x="79.5" y="-1.75" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.4.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE">
+              <point x="-83.5" y="7.0" />
+              <point x="592.0" y="1662.6005859375" />
+              <point x="592.0" y="1754.9755859375" />
+              <point x="-68.5" y="-9.1875" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.4.RELEASE/org.springframework:spring-jdbc:jar:5.1.6.RELEASE/org.springframework:spring-tx:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-beans:jar:5.1.6.RELEASE">
+              <point x="-38.0" y="7.0" />
+              <point x="1052.0" y="2553.423743060199" />
+              <point x="1032.0" y="2481.6017223011377" />
+              <point x="50.5" y="8.400000000000091" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="37.25" y="-10.5" />
+              <point x="37.25" y="10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework:spring-webmvc:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-beans:jar:5.1.6.RELEASE">
+              <point x="-56.5" y="1.75" />
+              <point x="1052.0" y="1832.486243060199" />
+              <point x="1032.0" y="2469.0017223011378" />
+              <point x="50.5" y="-4.199999999999818" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework:spring-webmvc:jar:5.1.6.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-aop:jar:2.1.4.RELEASE/org.springframework:spring-aop:jar:5.1.6.RELEASE">
+              <point x="-56.5" y="8.75" />
+              <point x="1092.0" y="1839.486243060199" />
+              <point x="1092.0" y="1903.986243060199" />
+              <point x="-44.5" y="-8.75" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2/io.springfox:springfox-core:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-metadata:jar:1.2.0.RELEASE">
+              <point x="-55.0" y="5.25" />
+              <point x="412.0" y="2663.5955604992937" />
+              <point x="412.0" y="2752.4705604992937" />
+              <point x="-81.0" y="-7.875" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE">
+              <point x="-50.5" y="3.0" />
+              <point x="342.0" y="837.6112430601991" />
+              <point x="322.0" y="1948.2205604992937" />
+              <point x="79.5" y="-8.75" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.8" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8">
+              <point x="-113.0" y="-0.0" />
+              <point x="1374.0" y="1458.2255859375" />
+              <point x="1354.0" y="1986.861243060199" />
+              <point x="62.5" y="-7.875" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-50.5" y="-9.0" />
+              <point x="682.0" y="825.6112430601991" />
+              <point x="682.0" y="589.3371900298948" />
+              <point x="-74.5" y="1.75" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.26" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-41.0" y="-0.0" />
+              <point x="342.0" y="2310.143351831739" />
+              <point x="322.0" y="2371.860266381647" />
+              <point x="35.0" y="-1.2352941176468448" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-models:jar:1.5.20">
+              <point x="-70.5" y="8.400000000000091" />
+              <point x="342.0" y="2829.745560499294" />
+              <point x="342.0" y="2993.245560499294" />
+              <point x="-61.0" y="-5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-41.5" y="-9.0" />
+              <point x="662.0" y="1043.5955604992937" />
+              <point x="662.0" y="439.5871900298948" />
+              <point x="-74.5" y="-6.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger-ui:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spring-web:jar:2.9.2">
+              <point x="-74.5" y="5.25" />
+              <point x="422.0" y="2519.4517223011376" />
+              <point x="422.0" y="2695.145560499294" />
+              <point x="-75.0" y="-4.199999999999818" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-32.0" y="3.0" />
+              <point x="722.0" y="21.3505859375" />
+              <point x="722.0" y="259.8371900298948" />
+              <point x="-32.0" y="-1.75" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0" target="cn.com.taiji:tai-rest:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="32.5" y="-2.625" />
+              <point x="322.0" y="1661.7205604992937" />
+              <point x="342.0" y="676.6112430601991" />
+              <point x="-74.5" y="6.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE/org.thymeleaf:thymeleaf:jar:3.0.11.RELEASE" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-40.0" y="5.25" />
+              <point x="342.0" y="2155.330851831739" />
+              <point x="322.0" y="2370.6249722639996" />
+              <point x="35.0" y="-2.4705882352941444" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework:spring-webmvc:jar:5.1.6.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework:spring-web:jar:5.1.6.RELEASE">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-swagger-common:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/com.google.guava:guava:jar:20.0">
+              <point x="95.0" y="-4.199999999999818" />
+              <point x="1032.0" y="2878.145560499294" />
+              <point x="1052.0" y="2691.9705604992937" />
+              <point x="-29.5" y="7.875" />
+            </edge>
+            <edge source="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-beans:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-core:jar:5.1.6.RELEASE">
+              <point x="-50.5" y="-2.625" />
+              <point x="442.0" y="2470.5767223011376" />
+              <point x="442.0" y="2052.280851831739" />
+              <point x="-46.0" y="4.199999999999818" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.poi:poi:jar:4.0.1" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.poi:poi:jar:4.0.1/org.apache.commons:commons-math3:jar:3.6.1">
+              <point x="21.5" y="-0.0" />
+              <point x="-61.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-32.0" y="1.75" />
+              <point x="712.0" y="263.3371900298948" />
+              <point x="712.0" y="18.3505859375" />
+              <point x="-32.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-32.5" y="7.0" />
+              <point x="85.0" y="1671.3455604992937" />
+              <point x="85.0" y="2366.0955604992937" />
+              <point x="-35.0" y="-7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.16.Final" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/com.fasterxml:classmate:jar:1.4.0">
+              <point x="-67.5" y="5.25" />
+              <point x="1062.0" y="979.7830604992937" />
+              <point x="1062.0" y="2582.3830604992936" />
+              <point x="-40.5" y="-8.400000000000091" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.4.RELEASE/org.springframework:spring-jdbc:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-core:jar:5.1.6.RELEASE">
+              <point x="-45.5" y="-2.625" />
+              <point x="1052.0" y="2303.143351831739" />
+              <point x="1032.0" y="2054.080851831739" />
+              <point x="46.0" y="6.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/mysql:mysql-connector-java:jar:8.0.15" target="cn.com.taiji:tai-rest:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-74.5" y="-9.0" />
+              <point x="732.0" y="743.6112430601991" />
+              <point x="732.0" y="679.6112430601991" />
+              <point x="-74.5" y="9.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="cn.com.taiji:tai-framework:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="37.25" y="-10.5" />
+              <point x="37.25" y="10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4" target="com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-32.0" y="-0.0" />
+              <point x="342.0" y="190.58719002989483" />
+              <point x="322.0" y="209.2205604992937" />
+              <point x="32.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0" target="cn.com.taiji:tai-rest:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="32.5" y="-7.875" />
+              <point x="322.0" y="1656.4705604992937" />
+              <point x="342.0" y="194.78719002989487" />
+              <point x="-32.0" y="4.199999999999989" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-37.25" y="-10.5" />
+              <point x="-37.25" y="10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-aop:jar:2.1.4.RELEASE/org.springframework:spring-aop:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-core:jar:5.1.6.RELEASE">
+              <point x="-44.5" y="-1.75" />
+              <point x="1052.0" y="1910.986243060199" />
+              <point x="1032.0" y="2048.080851831739" />
+              <point x="46.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.8">
+              <point x="83.0" y="7.0" />
+              <point x="1354.0" y="1529.7830604992937" />
+              <point x="1374.0" y="2680.9862430601993" />
+              <point x="-82.0" y="-7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.4.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.17">
+              <point x="91.0" y="-7.0" />
+              <point x="1354.0" y="775.6580604992937" />
+              <point x="1374.0" y="721.6580604992937" />
+              <point x="-70.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE">
+              <point x="-41.5" y="3.0" />
+              <point x="342.0" y="1055.5955604992937" />
+              <point x="322.0" y="1951.7205604992937" />
+              <point x="79.5" y="-5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-swagger-common:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/com.fasterxml:classmate:jar:1.4.0">
+              <point x="95.0" y="-8.400000000000091" />
+              <point x="1032.0" y="2873.9455604992936" />
+              <point x="1052.0" y="2599.183060499294" />
+              <point x="-40.5" y="8.400000000000091" />
+            </edge>
+            <edge source="cn.com.taiji:tai-cs:1.0" target="mysql:mysql-connector-java:jar:8.0.13">
+              <point x="27.5" y="-7.0" />
+              <point x="75.0" y="604.4705604992937" />
+              <point x="-74.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.8">
+              <point x="83.0" y="-0.0" />
+              <point x="-77.0" y="-5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4.0-atlassian-hosted" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-32.0" y="-0.0" />
+              <point x="682.0" y="322.5871900298948" />
+              <point x="682.0" y="15.3505859375" />
+              <point x="-32.0" y="-3.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE/org.thymeleaf:thymeleaf:jar:3.0.11.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE/org.thymeleaf:thymeleaf:jar:3.0.11.RELEASE/org.unbescape:unbescape:jar:1.1.6.RELEASE">
+              <point x="40.0" y="5.25" />
+              <point x="1032.0" y="2155.330851831739" />
+              <point x="1052.0" y="2223.768351831739" />
+              <point x="-43.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2">
+              <point x="32.5" y="7.875" />
+              <point x="322.0" y="1672.2205604992937" />
+              <point x="342.0" y="2821.3455604992937" />
+              <point x="-70.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.4.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:9.0.17">
+              <point x="91.0" y="7.0" />
+              <point x="1354.0" y="789.6580604992937" />
+              <point x="1374.0" y="823.6580604992937" />
+              <point x="-62.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE">
+              <point x="-83.0" y="5.25" />
+              <point x="572.0" y="1424.6580604992937" />
+              <point x="572.0" y="1760.2255859375" />
+              <point x="-68.5" y="-3.9375" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-74.5" y="-9.0" />
+              <point x="342.0" y="436.5871900298948" />
+              <point x="322.0" y="596.0705604992937" />
+              <point x="74.5" y="-8.399999999999977" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.16.Final" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.16.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final">
+              <point x="67.5" y="-5.25" />
+              <point x="1354.0" y="969.2830604992937" />
+              <point x="1374.0" y="954.0330604992937" />
+              <point x="-52.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.8" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8/com.fasterxml.jackson.core:jackson-core:jar:2.9.8">
+              <point x="-113.0" y="7.0" />
+              <point x="1374.0" y="1465.2255859375" />
+              <point x="1374.0" y="1990.2205604992937" />
+              <point x="-49.5" y="-5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/commons-fileupload:commons-fileupload:jar:1.4/commons-io:commons-io:jar:2.2" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/commons-io:commons-io:jar:2.6">
+              <point x="-48.5" y="-5.25" />
+              <point x="1374.0" y="1066.5330604992937" />
+              <point x="1354.0" y="1030.7830604992937" />
+              <point x="48.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.commons:commons-compress:jar:1.18">
+              <point x="42.0" y="2.625" />
+              <point x="1354.0" y="1217.9080604992937" />
+              <point x="1374.0" y="1235.7830604992937" />
+              <point x="-71.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/org.apache.velocity:velocity:jar:1.7" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/org.apache.velocity:velocity:jar:1.7/commons-lang:commons-lang:jar:2.4">
+              <point x="33.5" y="-5.25" />
+              <point x="1354.0" y="887.2830604992937" />
+              <point x="1374.0" y="872.0330604992937" />
+              <point x="-55.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8">
+              <point x="-83.0" y="7.0" />
+              <point x="1072.0" y="1529.7830604992937" />
+              <point x="1072.0" y="1987.736243060199" />
+              <point x="-62.5" y="-7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.8" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8/com.fasterxml.jackson.core:jackson-core:jar:2.9.8">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-devtools:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.1.4.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot:jar:2.1.4.RELEASE">
+              <point x="-90.0" y="7.0" />
+              <point x="522.0" y="1703.6005859375" />
+              <point x="522.0" y="1884.9901692708333" />
+              <point x="-47.0" y="-4.2000000000000455" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0">
+              <point x="-50.5" y="9.0" />
+              <point x="642.0" y="843.6112430601991" />
+              <point x="642.0" y="1209.2830604992937" />
+              <point x="-47.0" y="-6.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0">
+              <point x="53.0" y="-1.0499999999999545" />
+              <point x="322.0" y="987.7705604992939" />
+              <point x="342.0" y="1052.5955604992937" />
+              <point x="-41.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="cn.com.taiji:tai-rest:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-74.5" y="3.0" />
+              <point x="742.0" y="448.5871900298948" />
+              <point x="742.0" y="667.6112430601991" />
+              <point x="-74.5" y="-3.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/mysql:mysql-connector-java:jar:8.0.15">
+              <point x="-74.5" y="5.25" />
+              <point x="712.0" y="592.8371900298948" />
+              <point x="712.0" y="749.6112430601991" />
+              <point x="-74.5" y="-3.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-74.5" y="-0.0" />
+              <point x="732.0" y="670.6112430601991" />
+              <point x="732.0" y="445.5871900298948" />
+              <point x="-74.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-devtools:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot:jar:2.1.4.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-context:jar:5.1.6.RELEASE">
+              <point x="-47.0" y="4.2000000000000455" />
+              <point x="452.0" y="1893.3901692708334" />
+              <point x="452.0" y="2186.880851831739" />
+              <point x="-54.0" y="-4.199999999999818" />
+            </edge>
+            <edge source="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-context:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-core:jar:5.1.6.RELEASE">
+              <point x="-54.0" y="-8.400000000000091" />
+              <point x="462.0" y="2182.6808518317384" />
+              <point x="462.0" y="2056.4808518317386" />
+              <point x="-46.0" y="8.400000000000091" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/com.fasterxml:classmate:jar:1.4.0">
+              <point x="70.5" y="-8.75" />
+              <point x="1032.0" y="2812.5955604992937" />
+              <point x="1052.0" y="2594.9830604992935" />
+              <point x="-40.5" y="4.199999999999818" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.8" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-models:jar:1.5.20/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
+              <point x="-82.0" y="7.0" />
+              <point x="1374.0" y="2694.9862430601993" />
+              <point x="1354.0" y="3012.870560499294" />
+              <point x="70.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-schema:jar:2.9.2">
+              <point x="70.5" y="5.25" />
+              <point x="1032.0" y="2826.5955604992937" />
+              <point x="1052.0" y="2933.495560499294" />
+              <point x="-64.0" y="2.625" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10/com.github.pagehelper:pagehelper-spring-boot-autoconfigure:jar:1.2.10" target="org.springframework.boot:spring-boot-devtools:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.1.4.RELEASE">
+              <point x="-126.0" y="5.25" />
+              <point x="1052.0" y="1446.0330604992937" />
+              <point x="1032.0" y="1696.6005859375" />
+              <point x="90.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10" target="cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10/com.github.pagehelper:pagehelper-spring-boot-autoconfigure:jar:1.2.10">
+              <point x="104.5" y="5.25" />
+              <point x="1052.0" y="1435.5330604992937" />
+              <point x="-126.0" y="-5.25" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:2.0.0" target="org.springframework.boot:spring-boot-devtools:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.1.4.RELEASE">
+              <point x="-115.0" y="5.25" />
+              <point x="602.0" y="1098.8455604992937" />
+              <point x="602.0" y="1689.6005859375" />
+              <point x="-90.0" y="-7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE">
+              <point x="-104.5" y="7.0" />
+              <point x="562.0" y="1330.0330604992937" />
+              <point x="562.0" y="1762.8505859375" />
+              <point x="-68.5" y="-1.3125" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/commons-fileupload:commons-fileupload:jar:1.4">
+              <point x="47.0" y="-3.0" />
+              <point x="1032.0" y="1212.2830604992937" />
+              <point x="1052.0" y="1112.7830604992937" />
+              <point x="-72.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/mysql:mysql-connector-java:jar:8.0.15">
+              <point x="-47.0" y="-3.0" />
+              <point x="632.0" y="1212.2830604992937" />
+              <point x="632.0" y="761.6112430601991" />
+              <point x="-74.5" y="9.0" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3">
+              <point x="-93.5" y="2.625" />
+              <point x="1052.0" y="2144.393351831739" />
+              <point x="1032.0" y="2384.026722301138" />
+              <point x="56.5" y="-5.25" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.4.RELEASE/org.springframework:spring-jdbc:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-beans:jar:5.1.6.RELEASE">
+              <point x="-45.5" y="2.625" />
+              <point x="1052.0" y="2308.393351831739" />
+              <point x="1032.0" y="2477.4017223011374" />
+              <point x="50.5" y="4.199999999999818" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.jsoup:jsoup:jar:1.11.3">
+              <point x="47.0" y="-6.0" />
+              <point x="1032.0" y="1209.2830604992937" />
+              <point x="1052.0" y="1071.7830604992937" />
+              <point x="-28.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2/io.springfox:springfox-core:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/com.google.guava:guava:jar:20.0">
+              <point x="55.0" y="-0.0" />
+              <point x="1032.0" y="2658.3455604992937" />
+              <point x="1052.0" y="2676.2205604992937" />
+              <point x="-29.5" y="-7.875" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE">
+              <point x="53.0" y="9.450000000000045" />
+              <point x="322.0" y="998.2705604992939" />
+              <point x="342.0" y="1845.5651692708334" />
+              <point x="-99.0" y="-2.625" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.poi:poi:jar:4.0.1" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.poi:poi:jar:4.0.1/commons-codec:commons-codec:jar:1.11">
+              <point x="21.5" y="7.0" />
+              <point x="1620.0" y="1119.7830604992937" />
+              <point x="1640.0" y="1153.7830604992937" />
+              <point x="-60.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-74.5" y="-5.25" />
+              <point x="772.0" y="582.3371900298948" />
+              <point x="772.0" y="451.5871900298948" />
+              <point x="-74.5" y="6.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.16.Final">
+              <point x="83.0" y="-4.2000000000000455" />
+              <point x="1032.0" y="1415.2080604992937" />
+              <point x="1052.0" y="969.2830604992937" />
+              <point x="-67.5" y="-5.25" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.4.RELEASE/org.springframework:spring-jdbc:jar:5.1.6.RELEASE/org.springframework:spring-tx:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-core:jar:5.1.6.RELEASE">
+              <point x="-38.0" y="-0.0" />
+              <point x="1052.0" y="2546.423743060199" />
+              <point x="1032.0" y="2057.080851831739" />
+              <point x="46.0" y="9.0" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-core:jar:5.1.6.RELEASE">
+              <point x="-68.5" y="3.9375" />
+              <point x="492.0" y="1768.1005859375" />
+              <point x="492.0" y="2043.8808518317387" />
+              <point x="-46.0" y="-4.2000000000000455" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2">
+              <point x="70.5" y="-1.75" />
+              <point x="1032.0" y="2819.5955604992937" />
+              <point x="1052.0" y="2848.870560499294" />
+              <point x="-50.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4" target="cn.com.taiji:tai-framework:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-16.0" y="10.5" />
+              <point x="-16.0" y="-10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE">
+              <point x="-83.0" y="-0.0" />
+              <point x="1052.0" y="1522.7830604992937" />
+              <point x="1032.0" y="1766.7880859375" />
+              <point x="68.5" y="2.625" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-metadata:jar:1.2.0.RELEASE">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf:thymeleaf-spring5:jar:3.0.11.RELEASE" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-64.5" y="5.25" />
+              <point x="342.0" y="2094.330851831739" />
+              <point x="322.0" y="2369.3896781463527" />
+              <point x="35.0" y="-3.705882352940989" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10/com.github.pagehelper:pagehelper:jar:5.1.8" target="cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10/com.github.pagehelper:pagehelper:jar:5.1.8/com.github.jsqlparser:jsqlparser:jar:1.2">
+              <point x="45.5" y="-0.0" />
+              <point x="-41.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.mapstruct:mapstruct:jar:1.2.0.Final">
+              <point x="70.5" y="1.75" />
+              <point x="1032.0" y="2823.0955604992937" />
+              <point x="1052.0" y="2889.870560499294" />
+              <point x="-41.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0">
+              <point x="-53.0" y="-7.875" />
+              <point x="115.0" y="980.9455604992938" />
+              <point x="115.0" y="769.3455604992937" />
+              <point x="-93.5" y="7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE">
+              <point x="-70.5" y="-4.199999999999818" />
+              <point x="382.0" y="2817.145560499294" />
+              <point x="382.0" y="2558.201722301138" />
+              <point x="-66.5" y="3.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework:spring-webmvc:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-core:jar:5.1.6.RELEASE">
+              <point x="-56.5" y="-5.25" />
+              <point x="1052.0" y="1825.486243060199" />
+              <point x="1032.0" y="2042.0808518317388" />
+              <point x="46.0" y="-6.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spring-web:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/com.google.guava:guava:jar:20.0">
+              <point x="75.0" y="-0.0" />
+              <point x="1032.0" y="2699.3455604992937" />
+              <point x="1052.0" y="2681.4705604992937" />
+              <point x="-29.5" y="-2.625" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-models:jar:1.5.20" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-61.0" y="5.25" />
+              <point x="342.0" y="3003.745560499294" />
+              <point x="322.0" y="2382.9779134404703" />
+              <point x="35.0" y="9.882352941176578" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-beans:jar:5.1.6.RELEASE">
+              <point x="-66.5" y="-9.0" />
+              <point x="442.0" y="2546.201722301138" />
+              <point x="442.0" y="2481.0767223011376" />
+              <point x="-50.5" y="7.875" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger-ui:jar:2.9.2">
+              <point x="32.5" y="2.625" />
+              <point x="322.0" y="1666.9705604992937" />
+              <point x="342.0" y="2508.9517223011376" />
+              <point x="-74.5" y="-5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4" target="com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-32.0" y="-8.400000000000091" />
+              <point x="342.0" y="111.18719002989474" />
+              <point x="322.0" y="205.02056049929365" />
+              <point x="32.0" y="-4.2000000000000455" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0">
+              <point x="-47.0" y="3.0" />
+              <point x="342.0" y="1218.2830604992937" />
+              <point x="93.5" y="4.666666666666629" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-70.5" y="4.199999999999818" />
+              <point x="342.0" y="2825.5455604992935" />
+              <point x="322.0" y="2380.507325205176" />
+              <point x="35.0" y="7.411764705882433" />
+            </edge>
+            <edge source="org.springframework.boot:spring-boot-devtools:jar:2.1.4.RELEASE" target="org.springframework.boot:spring-boot-devtools:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.1.4.RELEASE">
+              <point x="74.5" y="-5.25" />
+              <point x="322.0" y="2191.2205604992937" />
+              <point x="342.0" y="1696.6005859375" />
+              <point x="-90.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8">
+              <point x="47.0" y="9.0" />
+              <point x="1032.0" y="1224.2830604992937" />
+              <point x="1052.0" y="1994.736243060199" />
+              <point x="-62.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-swagger-common:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-annotations:jar:1.5.20">
+              <point x="95.0" y="8.400000000000091" />
+              <point x="1032.0" y="2890.745560499294" />
+              <point x="1052.0" y="2971.870560499294" />
+              <point x="-73.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10" target="cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10/org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.2">
+              <point x="-104.5" y="-7.0" />
+              <point x="612.0" y="1316.0330604992937" />
+              <point x="612.0" y="716.8612430601991" />
+              <point x="-93.5" y="5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-aop:jar:2.1.4.RELEASE/org.springframework:spring-aop:jar:5.1.6.RELEASE">
+              <point x="66.5" y="-0.0" />
+              <point x="1032.0" y="2555.201722301138" />
+              <point x="1052.0" y="1921.486243060199" />
+              <point x="-44.5" y="8.75" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="cn.com.taiji:tai-framework:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-74.5" y="-9.0" />
+              <point x="762.0" y="661.6112430601991" />
+              <point x="762.0" y="524.9871900298948" />
+              <point x="-74.5" y="8.399999999999977" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-53.0" y="2.625" />
+              <point x="75.0" y="991.4455604992938" />
+              <point x="75.0" y="2373.0955604992937" />
+              <point x="-35.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-swagger-common:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.swagger:swagger-models:jar:1.5.20">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-cs:1.0" target="com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="27.5" y="-9.333333333333371" />
+              <point x="75.0" y="209.2205604992937" />
+              <point x="-32.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4.0-atlassian-hosted" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="0.0" y="-10.5" />
+              <point x="0.0" y="10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2/io.springfox:springfox-core:jar:2.9.2">
+              <point x="-50.5" y="-8.400000000000091" />
+              <point x="1052.0" y="2840.4705604992937" />
+              <point x="1032.0" y="2662.5455604992935" />
+              <point x="55.0" y="4.199999999999818" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-47.0" y="9.0" />
+              <point x="342.0" y="1224.2830604992937" />
+              <point x="322.0" y="2365.6837957934113" />
+              <point x="35.0" y="-7.411764705882433" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.poi:poi-ooxml-schemas:jar:4.0.1">
+              <point x="42.0" y="-2.625" />
+              <point x="1354.0" y="1212.6580604992937" />
+              <point x="1374.0" y="1194.7830604992937" />
+              <point x="-69.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4" target="cn.com.taiji:tai-rest:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="16.0" y="-10.5" />
+              <point x="16.0" y="10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-swagger-common:jar:2.9.2">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/mysql:mysql-connector-java:jar:8.0.15" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-74.5" y="-6.0" />
+              <point x="722.0" y="746.6112430601991" />
+              <point x="722.0" y="596.3371900298948" />
+              <point x="-74.5" y="8.75" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-aop:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-aop:jar:2.1.4.RELEASE/org.springframework:spring-aop:jar:5.1.6.RELEASE">
+              <point x="82.5" y="5.25" />
+              <point x="1032.0" y="1545.4080604992937" />
+              <point x="1052.0" y="1907.486243060199" />
+              <point x="-44.5" y="-5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/org.apache.velocity:velocity:jar:1.7" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/org.apache.velocity:velocity:jar:1.7/commons-collections:commons-collections:jar:3.2.1">
+              <point x="33.5" y="5.25" />
+              <point x="1354.0" y="897.7830604992937" />
+              <point x="1374.0" y="913.0330604992937" />
+              <point x="-73.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf.extras:thymeleaf-extras-java8time:jar:3.0.4.RELEASE">
+              <point x="-99.0" y="7.875" />
+              <point x="512.0" y="1856.0651692708334" />
+              <point x="512.0" y="1923.1901692708334" />
+              <point x="-90.0" y="-7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-cs:1.0" target="cn.com.taiji:tai-rest:jar:1.0">
+              <point x="27.5" y="2.3333333333333712" />
+              <point x="75.0" y="1664.3455604992937" />
+              <point x="-32.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spring-web:jar:2.9.2">
+              <point x="-70.5" y="-8.400000000000091" />
+              <point x="392.0" y="2812.9455604992936" />
+              <point x="392.0" y="2707.745560499294" />
+              <point x="-75.0" y="8.400000000000091" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/mysql:mysql-connector-java:jar:8.0.15" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-74.5" y="3.0" />
+              <point x="692.0" y="755.6112430601991" />
+              <point x="692.0" y="442.5871900298948" />
+              <point x="-74.5" y="-3.0" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.4.RELEASE/org.springframework:spring-jdbc:jar:5.1.6.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.4.RELEASE/org.springframework:spring-jdbc:jar:5.1.6.RELEASE/org.springframework:spring-tx:jar:5.1.6.RELEASE">
+              <point x="-45.5" y="7.875" />
+              <point x="1072.0" y="2313.643351831739" />
+              <point x="1072.0" y="2539.423743060199" />
+              <point x="-38.0" y="-7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2/io.springfox:springfox-core:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2/io.springfox:springfox-core:jar:2.9.2/net.bytebuddy:byte-buddy:jar:1.9.12">
+              <point x="55.0" y="-4.199999999999818" />
+              <point x="1032.0" y="2654.145560499294" />
+              <point x="1052.0" y="2631.7830604992937" />
+              <point x="-45.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="cn.com.taiji:tai-rest:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-74.5" y="4.2000000000000455" />
+              <point x="752.0" y="520.7871900298949" />
+              <point x="752.0" y="664.6112430601991" />
+              <point x="-74.5" y="-6.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-metadata:jar:1.2.0.RELEASE" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-81.0" y="2.625" />
+              <point x="342.0" y="2762.9705604992937" />
+              <point x="322.0" y="2379.272031087529" />
+              <point x="35.0" y="6.176470588235134" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1">
+              <point x="47.0" y="-0.0" />
+              <point x="-42.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10" target="cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10/com.github.pagehelper:pagehelper:jar:5.1.8">
+              <point x="104.5" y="-5.25" />
+              <point x="-45.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4.0-atlassian-hosted">
+              <point x="-47.0" y="-0.0" />
+              <point x="622.0" y="1215.2830604992937" />
+              <point x="622.0" y="330.9871900298949" />
+              <point x="-32.0" y="8.399999999999977" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/com.zaxxer:HikariCP:jar:3.2.0" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-36.5" y="7.0" />
+              <point x="342.0" y="1814.1901692708334" />
+              <point x="322.0" y="2366.9190899110586" />
+              <point x="35.0" y="-6.176470588235134" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-50.5" y="6.0" />
+              <point x="342.0" y="840.6112430601991" />
+              <point x="322.0" y="2363.213207558117" />
+              <point x="35.0" y="-9.882352941176578" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.8" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8">
+              <point x="-77.0" y="5.25" />
+              <point x="1374.0" y="1533.2830604992937" />
+              <point x="1354.0" y="1992.111243060199" />
+              <point x="62.5" y="-2.625" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-metadata:jar:1.2.0.RELEASE" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE">
+              <point x="-81.0" y="-2.625" />
+              <point x="402.0" y="2757.7205604992937" />
+              <point x="402.0" y="2561.201722301138" />
+              <point x="-66.5" y="6.0" />
+            </edge>
+            <edge source="org.springframework:spring-context-support:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-core:jar:5.1.6.RELEASE">
+              <point x="79.5" y="1.75" />
+              <point x="322.0" y="1958.7205604992937" />
+              <point x="342.0" y="2048.080851831739" />
+              <point x="-46.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/mysql:mysql-connector-java:jar:8.0.15" target="cn.com.taiji:tai-framework:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-74.5" y="-0.0" />
+              <point x="702.0" y="752.6112430601991" />
+              <point x="702.0" y="516.5871900298948" />
+              <point x="-74.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-cs:1.0" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="27.5" y="9.333333333333371" />
+              <point x="75.0" y="2380.0955604992937" />
+              <point x="-35.0" y="7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/mysql:mysql-connector-java:jar:8.0.13" target="cn.com.taiji:tai-rest:jar:1.0/mysql:mysql-connector-java:jar:8.0.13">
+              <point x="37.25" y="10.5" />
+              <point x="37.25" y="-10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/com.zaxxer:HikariCP:jar:3.2.0">
+              <point x="53.0" y="7.350000000000023" />
+              <point x="322.0" y="996.1705604992939" />
+              <point x="342.0" y="1807.1901692708334" />
+              <point x="-36.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-swagger-common:jar:2.9.2" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-95.0" y="7.875" />
+              <point x="342.0" y="2890.2205604992937" />
+              <point x="322.0" y="2381.742619322823" />
+              <point x="35.0" y="8.647058823529278" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.8">
+              <point x="83.0" y="-7.0" />
+              <point x="1354.0" y="1515.7830604992937" />
+              <point x="1374.0" y="1451.2255859375" />
+              <point x="-113.0" y="-7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/mysql:mysql-connector-java:jar:8.0.15" target="mysql:mysql-connector-java:jar:8.0.13">
+              <point x="-74.5" y="6.0" />
+              <point x="342.0" y="758.6112430601991" />
+              <point x="322.0" y="612.8705604992937" />
+              <point x="74.5" y="8.399999999999977" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-66.5" y="-3.0" />
+              <point x="342.0" y="2552.201722301138" />
+              <point x="322.0" y="2375.566148734588" />
+              <point x="35.0" y="2.4705882352941444" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.poi:poi-ooxml-schemas:jar:4.0.1" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/org.apache.poi:poi-ooxml-schemas:jar:4.0.1/org.apache.xmlbeans:xmlbeans:jar:3.0.2">
+              <point x="69.5" y="-0.0" />
+              <point x="-39.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.8" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.8">
+              <point x="-82.0" y="-0.0" />
+              <point x="1374.0" y="2687.9862430601993" />
+              <point x="1354.0" y="2002.611243060199" />
+              <point x="62.5" y="7.875" />
+            </edge>
+            <edge source="org.springframework:spring-context-support:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-beans:jar:5.1.6.RELEASE">
+              <point x="79.5" y="8.75" />
+              <point x="322.0" y="1965.7205604992937" />
+              <point x="342.0" y="2475.8267223011376" />
+              <point x="-50.5" y="2.625" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE">
+              <point x="93.5" y="9.333333333333371" />
+              <point x="342.0" y="1765.4755859375" />
+              <point x="-68.5" y="1.3125" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework:spring-web:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-core:jar:5.1.6.RELEASE">
+              <point x="-45.0" y="-0.0" />
+              <point x="1052.0" y="1726.861243060199" />
+              <point x="1032.0" y="2039.0808518317388" />
+              <point x="46.0" y="-9.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.4.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.17">
+              <point x="91.0" y="-0.0" />
+              <point x="-88.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework:spring-web:jar:5.1.6.RELEASE">
+              <point x="0.0" y="10.5" />
+              <point x="0.0" y="-10.5" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-swagger-common:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2">
+              <point x="95.0" y="-0.0" />
+              <point x="1032.0" y="2882.3455604992937" />
+              <point x="1052.0" y="2853.0705604992936" />
+              <point x="-50.5" y="4.199999999999818" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE">
+              <point x="-99.0" y="-7.875" />
+              <point x="542.0" y="1840.3151692708334" />
+              <point x="542.0" y="1773.3505859375" />
+              <point x="-68.5" y="9.1875" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/com.zaxxer:HikariCP:jar:3.2.0">
+              <point x="-83.5" y="-0.0" />
+              <point x="552.0" y="1655.6005859375" />
+              <point x="552.0" y="1800.1901692708334" />
+              <point x="-36.5" y="-7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/org.apache.poi:poi-ooxml:jar:4.0.1/com.github.virtuald:curvesapi:jar:1.05">
+              <point x="42.0" y="7.875" />
+              <point x="1354.0" y="1223.1580604992937" />
+              <point x="1374.0" y="1276.7830604992937" />
+              <point x="-39.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-41.5" y="6.0" />
+              <point x="342.0" y="1058.5955604992937" />
+              <point x="322.0" y="2364.4485016757644" />
+              <point x="35.0" y="-8.647058823529278" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-web:jar:2.1.4.RELEASE/org.springframework:spring-web:jar:5.1.6.RELEASE">
+              <point x="83.0" y="4.2000000000000455" />
+              <point x="1032.0" y="1423.6080604992937" />
+              <point x="1052.0" y="1719.861243060199" />
+              <point x="-45.0" y="-7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-swagger-common:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-core:jar:1.2.0.RELEASE">
+              <point x="-95.0" y="2.625" />
+              <point x="352.0" y="2884.9705604992937" />
+              <point x="352.0" y="2555.201722301138" />
+              <point x="-66.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-aop:jar:2.1.4.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-aop:jar:2.1.4.RELEASE/org.aspectj:aspectjweaver:jar:1.9.2">
+              <point x="82.5" y="-5.25" />
+              <point x="1032.0" y="1534.9080604992937" />
+              <point x="1052.0" y="1379.2830604992937" />
+              <point x="-53.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.1.4.RELEASE/org.thymeleaf.extras:thymeleaf-extras-java8time:jar:3.0.4.RELEASE" target="org.slf4j:slf4j-api:jar:1.7.26">
+              <point x="-90.0" y="-0.0" />
+              <point x="342.0" y="1930.1901692708334" />
+              <point x="322.0" y="2368.1543840287054" />
+              <point x="35.0" y="-4.941176470588289" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0">
+              <point x="-32.5" y="-7.0" />
+              <point x="105.0" y="1657.3455604992937" />
+              <point x="105.0" y="762.3455604992937" />
+              <point x="-93.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-schema:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2">
+              <point x="-64.0" y="-7.875" />
+              <point x="1062.0" y="2922.995560499294" />
+              <point x="1062.0" y="2857.270560499294" />
+              <point x="-50.5" y="8.400000000000091" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3">
+              <point x="56.5" y="5.25" />
+              <point x="1032.0" y="2394.526722301138" />
+              <point x="1052.0" y="2264.768351831739" />
+              <point x="-51.0" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-schema:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-spi:jar:2.9.2/io.springfox:springfox-core:jar:2.9.2">
+              <point x="-64.0" y="-2.625" />
+              <point x="1052.0" y="2928.245560499294" />
+              <point x="1032.0" y="2666.745560499294" />
+              <point x="55.0" y="8.400000000000091" />
+            </edge>
+            <edge source="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-context:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-context:jar:5.1.6.RELEASE/org.springframework:spring-expression:jar:5.1.6.RELEASE">
+              <point x="54.0" y="7.0" />
+              <point x="1032.0" y="2198.080851831739" />
+              <point x="1052.0" y="1960.736243060199" />
+              <point x="-64.5" y="7.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/io.springfox:springfox-swagger-common:jar:2.9.2" target="cn.com.taiji:tai-rest:jar:1.0/io.springfox:springfox-swagger2:jar:2.9.2/org.springframework.plugin:spring-plugin-metadata:jar:1.2.0.RELEASE">
+              <point x="-95.0" y="-7.875" />
+              <point x="372.0" y="2874.4705604992937" />
+              <point x="372.0" y="2768.2205604992937" />
+              <point x="-81.0" y="7.875" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.mybatis:mybatis-spring:jar:2.0.0">
+              <point x="93.5" y="-9.333333333333371" />
+              <point x="342.0" y="363.5871900298948" />
+              <point x="-55.5" y="-0.0" />
+            </edge>
+            <edge source="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-context:jar:5.1.6.RELEASE" target="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-beans:jar:5.1.6.RELEASE">
+              <point x="-54.0" y="8.400000000000091" />
+              <point x="452.0" y="2199.4808518317386" />
+              <point x="452.0" y="2465.3267223011376" />
+              <point x="-50.5" y="-7.875" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4" target="com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-32.0" y="-9.0" />
+              <point x="342.0" y="9.3505859375" />
+              <point x="322.0" y="200.8205604992936" />
+              <point x="32.0" y="-8.400000000000091" />
+            </edge>
+            <edge source="org.springframework:spring-context-support:jar:5.1.6.RELEASE/org.springframework:spring-context:jar:5.1.6.RELEASE" target="cn.com.taiji:tai-framework:jar:1.0/org.springframework.boot:spring-boot-starter-aop:jar:2.1.4.RELEASE/org.springframework:spring-aop:jar:5.1.6.RELEASE">
+              <point x="54.0" y="-0.0" />
+              <point x="1032.0" y="2191.080851831739" />
+              <point x="1052.0" y="1914.486243060199" />
+              <point x="-44.5" y="1.75" />
+            </edge>
+            <edge source="cn.com.taiji:tai-rest:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-32.0" y="-8.400000000000006" />
+              <point x="762.0" y="182.18719002989474" />
+              <point x="762.0" y="27.3505859375" />
+              <point x="-32.0" y="9.0" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.2" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.springframework.boot:spring-boot-starter:jar:2.1.4.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.4.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.2/org.apache.logging.log4j:log4j-api:jar:2.11.2">
+              <point x="49.0" y="5.25" />
+              <point x="1032.0" y="2435.526722301138" />
+              <point x="1052.0" y="2505.423743060199" />
+              <point x="-38.0" y="-0.0" />
+            </edge>
+            <edge source="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0" target="org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:2.0.0/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:2.0.0">
+              <point x="93.5" y="2.3333333333333712" />
+              <point x="342.0" y="1088.3455604992937" />
+              <point x="-115.0" y="-5.25" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-generator:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4" target="cn.com.taiji:tai-rest:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-32.0" y="6.0" />
+              <point x="752.0" y="24.3505859375" />
+              <point x="752.0" y="186.38719002989478" />
+              <point x="-32.0" y="-4.199999999999989" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/cn.com.taiji:tai-common:jar:1.0/commons-io:commons-io:jar:2.6">
+              <point x="47.0" y="-9.0" />
+              <point x="1032.0" y="1206.2830604992937" />
+              <point x="1052.0" y="1030.7830604992937" />
+              <point x="-48.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0/cn.com.taiji:tai-system:jar:1.0/com.oracle:ojdbc6:jar:11.2.0.4" target="com.oracle:ojdbc6:jar:11.2.0.4">
+              <point x="-32.0" y="5.25" />
+              <point x="342.0" y="266.8371900298948" />
+              <point x="322.0" y="213.42056049929374" />
+              <point x="32.0" y="4.2000000000000455" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/com.github.pagehelper:pagehelper-spring-boot-starter:jar:1.2.10">
+              <point x="53.0" y="1.0499999999999545" />
+              <point x="322.0" y="989.8705604992938" />
+              <point x="342.0" y="1323.0330604992937" />
+              <point x="-104.5" y="-0.0" />
+            </edge>
+            <edge source="cn.com.taiji:tai-framework:jar:1.0" target="cn.com.taiji:tai-framework:jar:1.0/com.github.theborakompanioni:thymeleaf-extras-shiro:jar:2.0.0">
+              <point x="53.0" y="-5.25" />
+              <point x="322.0" y="983.5705604992938" />
+              <point x="342.0" y="793.6112430601991" />
+              <point x="-77.0" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8261498028909329" x="375.0" y="271.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-system/src/main/java/cn/com/taiji/system/domain/BaseEntity.java" />
+    <entry file="file://$PROJECT_DIR$/tai-system/src/main/java/cn/com/taiji/system/domain/Excel.java" />
+    <entry file="file://$PROJECT_DIR$/tai-system/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-generator/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/JavaSoftware/maven/apache-maven-3.6.0/conf/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3895">
+          <caret line="205" column="14" selection-start-line="205" selection-start-column="14" selection-end-line="205" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-framework/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-system/src/main/java/cn/com/taiji/system/domain/PensionOrgInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="229" selection-start-line="229" selection-end-line="229" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.4.RELEASE/spring-boot-2.1.4.RELEASE.jar!/org/springframework/boot/web/servlet/context/ServletWebServerApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-cs/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-cs/src/main/java/cn/com/taiji/TaiCSServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-cs/src/main/java/cn/com/taiji/TaiCSApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-common/src/main/java/cn/com/taiji/common/annotation/DataScope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-common/src/main/java/cn/com/taiji/common/annotation/DataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-common/src/main/java/cn/com/taiji/common/annotation/Excel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-common/src/main/java/cn/com/taiji/common/annotation/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-common/src/main/java/cn/com/taiji/common/base/AjaxResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-common/src/main/java/cn/com/taiji/common/base/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-common/src/main/java/cn/com/taiji/common/config/Global.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2033">
+          <caret line="130" column="16" selection-start-line="130" selection-start-column="16" selection-end-line="130" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-generator/src/main/java/cn/com/taiji/generator/mapper/GenMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-generator/src/main/java/cn/com/taiji/generator/domain/TableInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-generator/src/main/java/cn/com/taiji/generator/domain/ColumnInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-generator/src/main/resources/mapper/generator/GenMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tai-generator/src/main/resources/mapper/GenMapper-mysql.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.oracle:ojdbc6:11.2.0.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

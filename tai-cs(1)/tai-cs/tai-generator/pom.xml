@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>tai</artifactId>
+        <groupId>cn.com.taiji</groupId>
+        <version>1.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>cn.com.taiji</groupId>
+    <artifactId>tai-generator</artifactId>
+    <version>1.0</version>
+
+    <description>
+        generator代码生成
+    </description>
+
+    <properties>
+        <velocity.version>1.7</velocity.version>
+    </properties>
+
+    <dependencies>
+
+        <!--velocity代码生成使用模板 -->
+        <dependency>
+            <groupId>org.apache.velocity</groupId>
+            <artifactId>velocity</artifactId>
+            <version>${velocity.version}</version>
+        </dependency>
+
+        <!-- 通用工具-->
+        <dependency>
+            <groupId>cn.com.taiji</groupId>
+            <artifactId>tai-common</artifactId>
+            <version>${tai.version}</version>
+        </dependency>
+    </dependencies>
+
+
+    <!-- nexus私服配置 -->
+<!--    <distributionManagement>-->
+<!--        <repository>-->
+<!--            <id>maven-releases</id>-->
+<!--            <url>http://47.92.243.79:8091/repository/taiji-public/</url>-->
+<!--        </repository>-->
+<!--        <snapshotRepository>-->
+<!--            <id>maven-snapshots</id>-->
+<!--            <url>http://47.92.243.79:8091/repository/taiji-public/</url>-->
+<!--        </snapshotRepository>-->
+<!--    </distributionManagement>-->
+
+
+</project>

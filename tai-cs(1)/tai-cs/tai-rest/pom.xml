@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>tai</artifactId>
+        <groupId>cn.com.taiji</groupId>
+        <version>1.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>cn.com.taiji</groupId>
+    <artifactId>tai-rest</artifactId>
+    <version>1.0</version>
+
+    <description>
+        rest服务入口
+    </description>
+
+    <dependencies>
+
+        <!-- swagger2-->
+        <dependency>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger2</artifactId>
+            <version>${swagger.version}</version>
+        </dependency>
+
+        <!-- swagger2-UI-->
+        <dependency>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger-ui</artifactId>
+            <version>${swagger.version}</version>
+        </dependency>
+
+        <!-- 核心模块-->
+        <dependency>
+            <groupId>cn.com.taiji</groupId>
+            <artifactId>tai-framework</artifactId>
+            <version>${tai.version}</version>
+        </dependency>
+
+    </dependencies>
+
+</project>

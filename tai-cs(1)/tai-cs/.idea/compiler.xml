@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tai-cs (1)" />
+        <module name="tai-rest" />
+        <module name="tai-system" />
+        <module name="tai-common" />
+        <module name="tai-generator" />
+        <module name="tai-framework" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tai-common" target="1.8" />
+      <module name="tai-cs" target="1.8" />
+      <module name="tai-cs (1)" target="1.8" />
+      <module name="tai-framework" target="1.8" />
+      <module name="tai-generator" target="1.8" />
+      <module name="tai-rest" target="1.8" />
+      <module name="tai-system" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

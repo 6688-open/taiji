@@ -1,0 +1,140 @@
+# 项目相关配置
+taiji:
+  # 名称
+  name: Taiji Check System
+  # 版本
+  version: 1.0
+  # 版权年份
+  copyrightYear: 2019
+  # 文件上传路径
+  profile: D:/profile/
+  # 获取ip地址开关
+  addressEnabled: true
+  # 首页地址
+  indexUrl: /index
+
+# 开发环境配置
+server:
+  # 服务端口
+  port: 8081
+  servlet:
+    # 项目contextPath
+    context-path: /
+  tomcat:
+    # tomcat的URI编码
+    uri-encoding: UTF-8
+    # tomcat最大线程数，默认为200
+    max-threads: 800
+    # Tomcat启动初始化的线程数，默认值25
+    min-spare-threads: 30
+ 
+# 日志配置
+logging:
+  level:
+    cn.com.taiji: debug
+    org.springframework: WARN
+    org.spring.springboot.dao: debug
+
+# Spring配置
+spring:
+  # 模板引擎
+  thymeleaf:
+    mode: HTML
+    encoding: utf-8
+    # 禁用缓存
+    cache: false
+  # 资源信息
+  messages:
+    # 国际化资源文件路径
+    basename: i18n/messages
+  jackson:
+    time-zone: GMT+8
+    date-format: yyyy-MM-dd HH:mm:ss
+  profiles: 
+    active: oracle
+  # 定时任务
+  quartz:
+    # 数据库方式
+    job-store-type: jdbc
+    jdbc:
+      # 不初始化表结构
+      initialize-schema: never
+    properties:
+      org:
+        quartz:
+          scheduler:
+            instanceName: clusteredScheduler
+            instanceId: AUTO
+          # 集群配置
+          jobStore:
+            # 数据保存方式为持久化
+            class: org.quartz.impl.jdbcjobstore.JobStoreTX
+            # StdJDBCDelegate说明支持集群
+            driverDelegateClass: org.quartz.impl.jdbcjobstore.StdJDBCDelegate
+            useProperties: false
+            # quartz内部表的前缀
+            tablePrefix: QRTZ_
+            # 是否加入集群
+            isClustered: true
+            # 调度程序将“容忍”一个Triggers将其下一个启动时间通过的毫秒数。
+            # 默认值（如果您在配置中未输入此属性）为60000（60秒）
+            misfireThreshold: 12000
+            # 设置此实例“检入”*与群集的其他实例的频率（以毫秒为单位）。影响检测失败实例的速度。
+            clusterCheckinInterval: 15000
+            #maxMisfiresToHandleAtATime: 1
+            #txIsolationLevelSerializable: true
+          # 线程池配置
+          threadPool:
+            # ThreadPool实现的类名
+            class: org.quartz.simpl.SimpleThreadPool
+            # 线程数量
+            threadCount: 20
+            # 线程优先级
+            threadPriority: 5
+            threadsInheritContextClassLoaderOfInitializingThread: true
+  # 文件上传
+  servlet:
+     multipart:
+       max-file-size:  30MB
+       max-request-size:  30MB
+  # 服务模块
+  devtools:
+    restart:
+      # 热部署开关
+      enabled: true
+
+# MyBatis
+mybatis:
+    # 搜索指定包别名
+    typeAliasesPackage: cn.com.taiji
+    # 配置mapper的扫描，找到所有的mapper.xml映射文件
+    mapperLocations: classpath*:mapper/**/*Mapper.xml
+    # 加载全局的配置文件
+    configLocation: classpath:mapper/mybatis-config.xml
+
+# PageHelper分页插件
+pagehelper: 
+  helperDialect: oracle
+  reasonable: true
+  supportMethodsArguments: true
+  params: count=countSql 
+
+# 防止XSS攻击
+xss: 
+  # 过滤开关
+  enabled: true
+  # 排除链接（多个用逗号分隔）
+  excludes: /system/notice/*
+  # 匹配链接
+  urlPatterns: /system/*,/monitor/*,/tool/*
+
+# 代码生成
+gen:
+  # 作者
+  author: wudx
+  # 默认生成包路径 system 需改成自己的模块名称 如 system monitor tool
+  packageName: cn.com.taiji.system
+  # 自动去除表前缀，默认是true
+  autoRemovePre: true
+  # 表前缀(类名不会包含表前缀)
+  tablePrefix: sys_

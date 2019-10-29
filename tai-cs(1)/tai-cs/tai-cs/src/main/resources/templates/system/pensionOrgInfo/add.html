@@ -1,0 +1,136 @@
+<!DOCTYPE HTML>
+<html  lang="zh" xmlns:th="http://www.thymeleaf.org">
+<meta charset="utf-8">
+<head th:include="include :: header"></head>
+<body class="white-bg">
+    <div class="wrapper wrapper-content animated fadeInRight ibox-content">
+        <form class="form-horizontal m" id="form-pensionOrgInfo-add">
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">场所名称：</label>
+				<div class="col-sm-8">
+					<input id="placeName" name="placeName" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">负责人id：</label>
+				<div class="col-sm-8">
+					<input id="headerId" name="headerId" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">行政区划代码：</label>
+				<div class="col-sm-8">
+					<input id="areaCode" name="areaCode" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">地址：</label>
+				<div class="col-sm-8">
+					<input id="address" name="address" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">11-公办福利院、12-民办养老院、13-社区小微型养老机构、14-农村敬老院、21-省级养老示范点、22-社区日间照料中心、23-幸福之家、24-互动幸福屋、25-宣老自主屋、26-养老健康屋：</label>
+				<div class="col-sm-8">
+					<input id="placeType" name="placeType" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">1-公办、2-民办、3-公办民营：</label>
+				<div class="col-sm-8">
+					<input id="businessType" name="businessType" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">服务电话：</label>
+				<div class="col-sm-8">
+					<input id="servicePhone" name="servicePhone" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">使用面积：</label>
+				<div class="col-sm-8">
+					<input id="useArea" name="useArea" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">床位数量：</label>
+				<div class="col-sm-8">
+					<input id="bedNum" name="bedNum" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">入住人数：</label>
+				<div class="col-sm-8">
+					<input id="checkinNum" name="checkinNum" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">10-是、11-自建、12-自建医院、13-自建医务室、00-否、01-签约、02-签约一级医院、03-签约二级医院、04-签约三级医院：</label>
+				<div class="col-sm-8">
+					<input id="isEstablishMedical" name="isEstablishMedical" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">0-禁用、1-正常：</label>
+				<div class="col-sm-8">
+					<input id="status" name="status" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">创建者：</label>
+				<div class="col-sm-8">
+					<input id="createBy" name="createBy" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">创建时间：</label>
+				<div class="col-sm-8">
+					<input id="createTime" name="createTime" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">更新者：</label>
+				<div class="col-sm-8">
+					<input id="updateBy" name="updateBy" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">更新时间：</label>
+				<div class="col-sm-8">
+					<input id="updateTime" name="updateTime" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">1-未删除，-1-已删除：</label>
+				<div class="col-sm-8">
+					<input id="logicFlag" name="logicFlag" class="form-control" type="text">
+				</div>
+			</div>
+			<div class="form-group">	
+				<label class="col-sm-3 control-label">1-全托服务、2-日托服务、3-喘息服务：</label>
+				<div class="col-sm-8">
+					<input id="serviceScope" name="serviceScope" class="form-control" type="text">
+				</div>
+			</div>
+		</form>
+	</div>
+    <div th:include="include::footer"></div>
+    <script type="text/javascript">
+		var prefix = ctx + "system/pensionOrgInfo"
+		$("#form-pensionOrgInfo-add").validate({
+			rules:{
+				xxxx:{
+					required:true,
+				},
+			}
+		});
+		
+		function submitHandler() {
+	        if ($.validate.form()) {
+	            $.operate.save(prefix + "/add", $('#form-pensionOrgInfo-add').serialize());
+	        }
+	    }
+	</script>
+</body>
+</html>

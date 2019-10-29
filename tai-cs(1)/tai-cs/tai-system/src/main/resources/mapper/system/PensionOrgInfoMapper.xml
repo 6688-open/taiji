@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.com.taiji.system.mapper.PensionOrgInfoMapper">
+    
+    <resultMap type="PensionOrgInfo" id="PensionOrgInfoResult">
+        <result property="id"    column="id"    />
+        <result property="placeName"    column="place_name"    />
+        <result property="headerId"    column="header_id"    />
+        <result property="areaCode"    column="area_code"    />
+        <result property="address"    column="address"    />
+        <result property="placeType"    column="place_type"    />
+        <result property="businessType"    column="business_type"    />
+        <result property="servicePhone"    column="service_phone"    />
+        <result property="useArea"    column="use_area"    />
+        <result property="bedNum"    column="bed_num"    />
+        <result property="checkinNum"    column="checkin_num"    />
+        <result property="isEstablishMedical"    column="is_establish_medical"    />
+        <result property="status"    column="status"    />
+        <result property="createBy"    column="create_by"    />
+        <result property="createTime"    column="create_time"    />
+        <result property="updateBy"    column="update_by"    />
+        <result property="updateTime"    column="update_time"    />
+        <result property="logicFlag"    column="logic_flag"    />
+        <result property="serviceScope"    column="service_scope"    />
+    </resultMap>
+	
+	<sql id="selectPensionOrgInfoVo">
+        select id, place_name, header_id, area_code, address, place_type, business_type, service_phone, use_area, bed_num, checkin_num, is_establish_medical, status, create_by, create_time, update_by, update_time, logic_flag, service_scope from pension_org_info
+    </sql>
+	
+    <select id="selectPensionOrgInfoList" parameterType="PensionOrgInfo" resultMap="PensionOrgInfoResult">
+        <include refid="selectPensionOrgInfoVo"/>
+        <where>  
+            <if test="id != null  and id != '' "> and id = #{id}</if>
+             <if test="placeName != null  and placeName != '' "> and place_name = #{placeName}</if>
+             <if test="headerId != null  and headerId != '' "> and header_id = #{headerId}</if>
+             <if test="areaCode != null  and areaCode != '' "> and area_code = #{areaCode}</if>
+             <if test="address != null  and address != '' "> and address = #{address}</if>
+             <if test="placeType != null  and placeType != '' "> and place_type = #{placeType}</if>
+             <if test="businessType != null  and businessType != '' "> and business_type = #{businessType}</if>
+             <if test="servicePhone != null  and servicePhone != '' "> and service_phone = #{servicePhone}</if>
+             <if test="useArea != null "> and use_area = #{useArea}</if>
+             <if test="bedNum != null "> and bed_num = #{bedNum}</if>
+             <if test="checkinNum != null "> and checkin_num = #{checkinNum}</if>
+             <if test="isEstablishMedical != null  and isEstablishMedical != '' "> and is_establish_medical = #{isEstablishMedical}</if>
+             <if test="status != null  and status != '' "> and status = #{status}</if>
+             <if test="createBy != null  and createBy != '' "> and create_by = #{createBy}</if>
+             <if test="createTime != null "> and create_time = #{createTime}</if>
+             <if test="updateBy != null  and updateBy != '' "> and update_by = #{updateBy}</if>
+             <if test="updateTime != null "> and update_time = #{updateTime}</if>
+             <if test="logicFlag != null "> and logic_flag = #{logicFlag}</if>
+             <if test="serviceScope != null  and serviceScope != '' "> and service_scope = #{serviceScope}</if>
+         </where>
+    </select>
+    
+    <select id="selectPensionOrgInfoById" parameterType="String" resultMap="PensionOrgInfoResult">
+        <include refid="selectPensionOrgInfoVo"/>
+        where id = #{id}
+    </select>
+        
+    <insert id="insertPensionOrgInfo" parameterType="PensionOrgInfo">
+        insert into pension_org_info
+		<trim prefix="(" suffix=")" suffixOverrides=",">
+			<if test="id != null  and id != ''  ">id,</if>
+			<if test="placeName != null  and placeName != ''  ">place_name,</if>
+			<if test="headerId != null  and headerId != ''  ">header_id,</if>
+			<if test="areaCode != null  and areaCode != ''  ">area_code,</if>
+			<if test="address != null  and address != ''  ">address,</if>
+			<if test="placeType != null  and placeType != ''  ">place_type,</if>
+			<if test="businessType != null  and businessType != ''  ">business_type,</if>
+			<if test="servicePhone != null  and servicePhone != ''  ">service_phone,</if>
+			<if test="useArea != null  ">use_area,</if>
+			<if test="bedNum != null  ">bed_num,</if>
+			<if test="checkinNum != null  ">checkin_num,</if>
+			<if test="isEstablishMedical != null  and isEstablishMedical != ''  ">is_establish_medical,</if>
+			<if test="status != null  and status != ''  ">status,</if>
+			<if test="createBy != null  and createBy != ''  ">create_by,</if>
+			<if test="createTime != null  ">create_time,</if>
+			<if test="updateBy != null  and updateBy != ''  ">update_by,</if>
+			<if test="updateTime != null  ">update_time,</if>
+			<if test="logicFlag != null  ">logic_flag,</if>
+			<if test="serviceScope != null  and serviceScope != ''  ">service_scope,</if>
+         </trim>
+        <trim prefix="values (" suffix=")" suffixOverrides=",">
+			<if test="id != null  and id != ''  ">#{id},</if>
+			<if test="placeName != null  and placeName != ''  ">#{placeName},</if>
+			<if test="headerId != null  and headerId != ''  ">#{headerId},</if>
+			<if test="areaCode != null  and areaCode != ''  ">#{areaCode},</if>
+			<if test="address != null  and address != ''  ">#{address},</if>
+			<if test="placeType != null  and placeType != ''  ">#{placeType},</if>
+			<if test="businessType != null  and businessType != ''  ">#{businessType},</if>
+			<if test="servicePhone != null  and servicePhone != ''  ">#{servicePhone},</if>
+			<if test="useArea != null  ">#{useArea},</if>
+			<if test="bedNum != null  ">#{bedNum},</if>
+			<if test="checkinNum != null  ">#{checkinNum},</if>
+			<if test="isEstablishMedical != null  and isEstablishMedical != ''  ">#{isEstablishMedical},</if>
+			<if test="status != null  and status != ''  ">#{status},</if>
+			<if test="createBy != null  and createBy != ''  ">#{createBy},</if>
+			<if test="createTime != null  ">#{createTime},</if>
+			<if test="updateBy != null  and updateBy != ''  ">#{updateBy},</if>
+			<if test="updateTime != null  ">#{updateTime},</if>
+			<if test="logicFlag != null  ">#{logicFlag},</if>
+			<if test="serviceScope != null  and serviceScope != ''  ">#{serviceScope},</if>
+         </trim>
+    </insert>
+	 
+    <update id="updatePensionOrgInfo" parameterType="PensionOrgInfo">
+        update pension_org_info
+        <trim prefix="SET" suffixOverrides=",">
+            <if test="placeName != null  and placeName != ''  ">place_name = #{placeName},</if>
+            <if test="headerId != null  and headerId != ''  ">header_id = #{headerId},</if>
+            <if test="areaCode != null  and areaCode != ''  ">area_code = #{areaCode},</if>
+            <if test="address != null  and address != ''  ">address = #{address},</if>
+            <if test="placeType != null  and placeType != ''  ">place_type = #{placeType},</if>
+            <if test="businessType != null  and businessType != ''  ">business_type = #{businessType},</if>
+            <if test="servicePhone != null  and servicePhone != ''  ">service_phone = #{servicePhone},</if>
+            <if test="useArea != null  ">use_area = #{useArea},</if>
+            <if test="bedNum != null  ">bed_num = #{bedNum},</if>
+            <if test="checkinNum != null  ">checkin_num = #{checkinNum},</if>
+            <if test="isEstablishMedical != null  and isEstablishMedical != ''  ">is_establish_medical = #{isEstablishMedical},</if>
+            <if test="status != null  and status != ''  ">status = #{status},</if>
+            <if test="createBy != null  and createBy != ''  ">create_by = #{createBy},</if>
+            <if test="createTime != null  ">create_time = #{createTime},</if>
+            <if test="updateBy != null  and updateBy != ''  ">update_by = #{updateBy},</if>
+            <if test="updateTime != null  ">update_time = #{updateTime},</if>
+            <if test="logicFlag != null  ">logic_flag = #{logicFlag},</if>
+            <if test="serviceScope != null  and serviceScope != ''  ">service_scope = #{serviceScope},</if>
+        </trim>
+        where id = #{id}
+    </update>
+
+	<delete id="deletePensionOrgInfoById" parameterType="String">
+        delete from pension_org_info where id = #{id}
+    </delete>
+	
+    <delete id="deletePensionOrgInfoByIds" parameterType="String">
+        delete from pension_org_info where id in 
+        <foreach item="id" collection="array" open="(" separator="," close=")">
+            #{id}
+        </foreach>
+    </delete>
+    
+</mapper>
