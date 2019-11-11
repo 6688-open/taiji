@@ -16,6 +16,9 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 //开启定时
 @EnableScheduling
 public class TaiCSApplication {
+
+
+
     public static void main(String[] args) {
         SpringApplication.run(TaiCSApplication.class, args);
     }
