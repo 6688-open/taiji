@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="865f0a8d-e64c-4051-b891-df02ba434a03" name="Default Changelist" comment="" />
+    <list default="true" id="865f0a8d-e64c-4051-b891-df02ba434a03" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/tai-cs(1)/tai-cs/tai-cs/src/main/java/cn/com/taiji/web/controller/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/tai-cs(1)/tai-cs/tai-cs/src/main/java/cn/com/taiji/web/controller/Test.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/tai-cs(1)/tai-cs/tai-rest/target/" />
     <ignored path="$PROJECT_DIR$/tai-cs(1)/tai-cs/target/" />
@@ -35,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tai-cs(1)/tai-cs/tai-cs/src/main/java/cn/com/taiji/web/controller/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="95">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -57,6 +59,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/tai-cs(1)/tai-cs/tai-cs/src/main/java/cn/com/taiji/TaiCSApplication.java" />
+        <option value="$PROJECT_DIR$/tai-cs(1)/tai-cs/tai-cs/src/main/java/cn/com/taiji/web/controller/Test.java" />
       </list>
     </option>
   </component>
@@ -194,7 +197,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573485715525</updated>
-      <workItem from="1573485720905" duration="844000" />
+      <workItem from="1573485720905" duration="950000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1573486350430</created>
@@ -207,10 +210,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="844000" />
+    <option name="totallyTimeSpent" value="950000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -263,8 +267,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tai-cs(1)/tai-cs/tai-cs/src/main/java/cn/com/taiji/web/controller/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="95">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
